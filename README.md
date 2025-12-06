@@ -2,13 +2,13 @@
 - Description
 - Links
 
-## Education
-- University at Buffalo
+# Education
+## University at Buffalo
 - Link
-- Hindustan University
+## Hindustan University
 - Link
   
-### Experience
+# Experience
 - Workplace 1
 - Workplace 2
 - workplace 3
