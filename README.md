@@ -1,6 +1,6 @@
 # About me
 - Description
-- [website](ganeshreddy.com)
+- [website](https://www.ganeshreddy.com/)
  
 # Education
 
