@@ -3,6 +3,7 @@
 - Links
 
 # Education
+
 ## University at Buffalo
 - Link
 ## Hindustan University
