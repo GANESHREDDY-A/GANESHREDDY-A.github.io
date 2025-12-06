@@ -55,7 +55,6 @@
 <a href="/docs/assets/Ganeshreddy_Annapareddy_Resume.pdf" target="_blank" rel="noopener noreferrer">
   View My Resume (PDF)
 </a>
----
 
 # Contact Me  
 
