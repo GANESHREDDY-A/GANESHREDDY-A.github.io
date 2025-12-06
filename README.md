@@ -49,5 +49,4 @@
 
 # Misc
 - I made this portfolio to offer a quick overview of my background. I plan to run this site alongside my personal website and explore how each can grow in a unique direction.
-- If you’d like to see the personal site I built for fun, feel free to visit:
-- https://www.ganeshreddy.com/
+- If you’d like to see the personal site I built for fun, feel free to visit:[Ganeshreddy.com](https://www.ganeshreddy.com/)
