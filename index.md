@@ -1,17 +1,3 @@
----
-layout: default
----
-
-# Contact Me  
-
-**Website:**  
-[ganeshreddy.com]({{ site.website }})
-
-**Email:**  
-[{{ site.emails[0] }}](mailto:{{ site.emails[0] }})  
-[{{ site.emails[1] }}](mailto:{{ site.emails[1] }})
-
-
 # About me
 - I am currently working as an Application Programming Analyst at Burrell College of Osteopathic Medicine in Las Cruces, NM.
   I have worked in both Academic and Industrial fields and I enjoy being part of teams that focus on real problems where data, design, and technology can make a meaningful impact.
@@ -64,3 +50,13 @@ layout: default
 # Misc
 - I made this portfolio to offer a quick overview of my background. I plan to run this site alongside my personal website and explore how each can grow in a unique direction.
 - If you’d like to see the personal site I built for fun, feel free to visit:[Ganeshreddy.com](https://www.ganeshreddy.com/)
+
+---
+layout: default
+---
+
+# Contact Me  
+
+**Email:**  
+[{{ site.emails[0] }}](mailto:{{ site.emails[0] }})  
+[{{ site.emails[1] }}](mailto:{{ site.emails[1] }})
