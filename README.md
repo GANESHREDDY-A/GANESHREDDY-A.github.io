@@ -1,7 +1,7 @@
 # About me
 - Description
-- Links
-
+- [website]{ganeshreddy.com}
+ 
 # Education
 
 ## University at Buffalo
