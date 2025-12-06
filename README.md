@@ -1,12 +1,12 @@
 # About me
 - Description
-- [website]{ganeshreddy.com}
+- [website](ganeshreddy.com)
  
 # Education
 
 ## University at Buffalo
 - Link
-  
+  https://www.ganeshreddy.com/
 ## Hindustan University
 - Link
   
