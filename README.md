@@ -6,7 +6,6 @@
 
 ## University at Buffalo
 - Link
-  https://www.ganeshreddy.com/
 ## Hindustan University
 - Link
   
