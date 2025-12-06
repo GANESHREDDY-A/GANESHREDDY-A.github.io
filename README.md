@@ -1,27 +1,54 @@
 # About me
-- Name: Ganesh Annapa
-- I work at Burrell College of Osteopathic Medicine as an Application Programming Analyst in Las Cruces, NM. I did my Master's in Data Science and Applications from UB. People Know me as the 'visual guy'. Clearly, I am interested in Visualization - designing, building or appreciating. I am also interested in talking about a bunch of other things
-a. Human Computer Interaction 
-b. Machine Learning 
-c. Databases
-d. Data Science 
-**********I have a short term goal of getting into research in any of the above topics, and if you ask me a long term goal, I would say the way I am choosing my short term goals i will probably end up as a researcher.**********
-Personal
-I love watching movies (if not for data science, I would have probably ended up working here), driving cars, and playing sports - I am a member of the tennis club Las Cruces Tennis Players Association. I also recently started traveling. My favorite destination is Chicago. I have flown there way too many times, 14 times since October 2024 to be exact. I am heading back for Christmas, so I'm strapped in. 
-I have lived in 8 cities, 3 countries, 2 continents.
-- https://www.ganeshreddy.com/
- 
+- I am currently working as an Application Programming Analyst at Burrell College of Osteopathic Medicine in Las Cruces, NM.
+- I have worked in both Academic and Industrial fields and I am comfortable working in a place that can focus on a issue which can help solve the issue and help others in the way. 
+- I am intrested in talking about multiple topics. 
+  - Visualization
+  - Human Computer Interaction 
+  - Machine Learning 
+  - Databases
+  - Data Science 
+---------------------------------------------------------------------------------------------------------------------------------
 # Education
-
 ## University at Buffalo
-- Link
-  
+   - Masters of Professional Studies: Data Science and Applications.
+     - Buffalo, NY | Jun 2023
+
 ## Hindustan University
-- Link
-  
+   - B.Tech: Electronics and Communication Engineering.
+     - Chennai, INDIA | Jun 2020
+---------------------------------------------------------------------------------------------------------------------------------
 # Experience
-- Workplace 1
-- Workplace 2
-- workplace 3
-- workplace 4
-- workplace 5
+## Research Experience 
+   - Research Volunteer
+     - Department of Bio Statistics, University at Buffalo
+       - Buffalo, NY | May 2023 - Dec 2023
+   
+   - Analyst
+     - Microsoft Research, Infosys Limited (Contracted to Microsoft)
+       - Hyderabad, India
+
+## Professional Experience 
+   - Application Programming Analyst
+     - Burrell College of Osteopathic Medicine
+       - Las Cruces, NM
+         - 
+         
+   - Application Programming Analyst
+     - Burrell College of Osteopathic Medicine
+       - Las Cruces, NM
+         -
+         
+   - Application Programming Analyst
+     - Burrell College of Osteopathic Medicine
+       - Las Cruces, NM
+         -
+         
+   - Application Programming Analyst
+     - Burrell College of Osteopathic Medicine
+       - Las Cruces, NM
+         - 
+---------------------------------------------------------------------------------------------------------------------------------
+# Misc
+- I created this just for a quick overview of me. I plan to run both websites Simultaniously and see how I can make them unique.
+- If you want to go through my personal website that I created as a fun project, please do.
+- https://www.ganeshreddy.com/
