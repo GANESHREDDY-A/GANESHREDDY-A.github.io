@@ -1,13 +1,13 @@
 # About me
 - I am currently working as an Application Programming Analyst at Burrell College of Osteopathic Medicine in Las Cruces, NM.
-- I have worked in both Academic and Industrial fields and I am comfortable working in a place that can focus on a issue which can help solve the issue and help others in the way. 
-- I am intrested in talking about multiple topics. 
+  I have worked in both Academic and Industrial fields and I am comfortable working in a place that can focus on a issue which can help solve the issue and help others in the way. 
+  I am intrested in talking about multiple topics. 
   - Visualization
   - Human Computer Interaction 
   - Machine Learning 
   - Databases
   - Data Science
-  - 
+
 # Education
 ## University at Buffalo
    - Masters of Professional Studies: Data Science and Applications.
@@ -34,15 +34,16 @@
        - Las Cruces, NM
          -  I led major reporting and workflow modernization efforts by migrating legacy systems, automating cross-department processes, and rebuilding reliable data pipelines. 
             I also created version-control tools, integrated systems through APIs, and developed interactive dashboards that helped leadership make faster, data-driven decisions.
-   - Application Programming Analyst
-     - Burrell College of Osteopathic Medicine
-       - Las Cruces, NM
+   - Data Analyst
+     - Trilok Software Solutions
+       - Austin, TX
          - I worked across teams to analyze digital product data, automate workflows, and support feature optimization through A/B testing and behavioral insights. 
            I also built dashboards, KPI frameworks, and analytics strategies that helped the team understand user engagement and make informed product decisions.
    - Application Programming Analyst
      - Burrell College of Osteopathic Medicine
        - Las Cruces, NM
-         - pss
+         - I worked across research and analytics teams to analyze large datasets, automate reporting, and support system migrations that improved efficiency and decision-making. 
+           I also collaborated with cross-functional teams to refine products, optimize marketing strategies, and improve overall service delivery.
    - Application Programming Analyst
      - Burrell College of Osteopathic Medicine
        - Las Cruces, NM
