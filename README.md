@@ -12,6 +12,7 @@
 ## University at Buffalo
    - Masters of Professional Studies: Data Science and Applications.
      - Buffalo, NY | Jun 2023
+
 ## Hindustan University
    - B.Tech: Electronics and Communication Engineering.
      - Chennai, INDIA | Jun 2020
