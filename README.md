@@ -6,7 +6,8 @@
   - Human Computer Interaction 
   - Machine Learning 
   - Databases
-  - Data Science 
+  - Data Science
+  - 
 # Education
 ## University at Buffalo
    - Masters of Professional Studies: Data Science and Applications.
@@ -14,6 +15,7 @@
 ## Hindustan University
    - B.Tech: Electronics and Communication Engineering.
      - Chennai, INDIA | Jun 2020
+
 # Experience
 ## Research Experience 
    - Research Volunteer
@@ -30,11 +32,13 @@
    - Application Programming Analyst
      - Burrell College of Osteopathic Medicine
        - Las Cruces, NM
-         -  pss
+         -  I led major reporting and workflow modernization efforts by migrating legacy systems, automating cross-department processes, and rebuilding reliable data pipelines. 
+            I also created version-control tools, integrated systems through APIs, and developed interactive dashboards that helped leadership make faster, data-driven decisions.
    - Application Programming Analyst
      - Burrell College of Osteopathic Medicine
        - Las Cruces, NM
-         - pss
+         - I worked across teams to analyze digital product data, automate workflows, and support feature optimization through A/B testing and behavioral insights. 
+           I also built dashboards, KPI frameworks, and analytics strategies that helped the team understand user engagement and make informed product decisions.
    - Application Programming Analyst
      - Burrell College of Osteopathic Medicine
        - Las Cruces, NM
@@ -43,6 +47,7 @@
      - Burrell College of Osteopathic Medicine
        - Las Cruces, NM
          - psst
+
 # Misc
 - I created this just for a quick overview of me. I plan to run both websites Simultaniously and see how I can make them unique.
 - If you want to go through my personal website that I created as a fun project, please do.
