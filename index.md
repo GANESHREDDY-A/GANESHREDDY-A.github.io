@@ -52,7 +52,9 @@
 - If you’d like to see the personal site I built for fun, feel free to visit:[Ganeshreddy.com](https://www.ganeshreddy.com/)
 
 ---
-layout: default
+<a href="/docs/assets/Ganeshreddy_Annapareddy_Resume.pdf" target="_blank" rel="noopener noreferrer">
+  View My Resume (PDF)
+</a>
 ---
 
 # Contact Me  
