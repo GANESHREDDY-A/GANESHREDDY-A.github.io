@@ -6,6 +6,7 @@
 
 ## University at Buffalo
 - Link
+  
 ## Hindustan University
 - Link
   
