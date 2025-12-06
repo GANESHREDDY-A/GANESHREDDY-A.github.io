@@ -8,7 +8,7 @@
 - Hindustan University
 - Link
   
-### Experience
+## Experience
 - Workplace 1
 - Workplace 2
 - workplace 3
